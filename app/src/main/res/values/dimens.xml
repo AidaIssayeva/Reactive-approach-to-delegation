@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="input_margin">16dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+</resources>
